@@ -11,7 +11,7 @@ git submodule init
 git submodule update
 pip install -r requirements.txt
 ```
-2. Run the model on live traffic camera streaming on Youtube (LIVE: Pracha Songkhro Soi 2 https://www.youtube.com/watch?v=xd567z000HE)
+2. Run the model on live traffic camera streaming on Youtube (LIVE: Pracha Songkhro Soi 2 https://www.youtube.com/watch?v=3McjKJZHSc4)
 ```
-python track.py --source https://youtu.be/xd567z000HE --strong-sort-weights osnet_x0_25_market1501.pt
+python track.py --source https://youtu.be/3McjKJZHSc4 --strong-sort-weights osnet_x0_25_market1501.pt
 ```
