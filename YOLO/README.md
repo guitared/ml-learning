@@ -1,6 +1,9 @@
 # YOLO
 
 ### Use pre-trained model
+
+![example](./yolo-xooos.gif)
+
 This is an example to use pre-trained model on live traffic cam
 
 1. Clone https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
